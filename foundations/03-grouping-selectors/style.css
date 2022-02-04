@@ -1,0 +1,14 @@
+.Button {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.First {
+  color: white;
+  background-color: black;
+}
+
+.Second {
+  color: black;
+  background-color: yellow;
+}
